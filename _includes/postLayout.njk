@@ -1,0 +1,11 @@
+---
+layout: siteLayout
+---
+
+<h1>{{title}}</h1>
+<div id="subtitle">
+	<span id="author">By {{author}}, <span>{{date | dateformat}}</span></span>
+	<span class="grey"> {{words}} words</span>
+</div>
+
+{{ content | safe }}

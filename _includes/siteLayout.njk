@@ -1,0 +1,19 @@
+---
+site:  Athena & Jono's Short Stories
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ site }}</title>
+    <link rel="stylesheet" href="/public/style.css">
+  </head>
+  <body>
+    <h1 id="siteTitle"><a href="/">{{ site }}</a></h1>
+    <div id="container">
+      {{ content | safe }}
+    </div>
+  </body>
+</html>
