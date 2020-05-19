@@ -1,34 +1,60 @@
 ---
 layout: postLayout.njk
 author: Jono Shields
-words: 280
+words: 718
 date: 2020-05-17
 tags: story
-title: Sides of a Sphere
+title: The Corners of a Sphere
 ---
 
-He checked his wrist again. The numbers still counting down. 60.
+He stood still, checking his wrist again. The numbers still counting down. 60 seconds.
 
-At his feet was a black bag, into it he put his hand and out he pulled a golden orb the size of an apple. It's surface was dull and had strange patterns embedded on the outside, almost like there were thousands of tiny wires running across the surface. Each wire ran its own path, made connections to others and then eventually ran to the top of the sphere where they all joined to form a ring. 48.
+The lights flickered in the dark parking garage. The lot was scarce, just a few cars, dumpsters and roller doors. Flourescent lights overhead that barely lit the ground directly below them. 
 
-He looked down at his wrist again and then at the golden orb. 36.
+The man wore a weathered face and his eyes hung low, deep set in their sockets. The coat on his back was worn around the shoulders and elbows. If he wasn't standing in the very center of the building with a black bag at his feet he would have melted into the background. You wouldn't have taken a second look.
 
-Placing his thumb firmly on the ring at the top of the orb, he breathed deeply. 25.
+He leaned down and tucked his hand into the bag. It quickly emerged with a glisten. The man's lean fingers wrapped around a lustrous golden orb. It looked a bit odd in the man's presence, like a homeless woman carrying a posh purse. Its surface was dimpled with strange patterns spiralling around it. Hundreds of tiny wires ran across it. Each taking its own path, making connections to others and then eventually running to the top of the sphere where they all joined to form a ring. 48.
 
-The looming concrete walls of the now empty carpark building surrounded him. It was a busy city and hard to get away from people. But right now he was entirely alone. Not a soul in his proximity, no one on his mind. 23.
+The man stood firm. His eyes fixed on the orb. Somehow he was both sure and unsure. The feeling he felt in his fingertips was instinctual, yet hesitant. 
 
-After taking a final glance at the time, 18, he depressed the top of the orb with a satisfying click. 16.
+"How much more?" he wondered. 
 
-Nothing happened. 10.
+He knew the answer. 
 
-It started as a low hum, but started growing higher in pitched quickly. The orb shimmered in the mans hand, almost flashing like lightning as the concrete and ashphalt lit up around him. 6.
+But dreaded to accept it.
 
-His coat was swaying in the breeze. A second later gusts around him were pulling at the rest of his clothes. 3.
+He looked down at his wrist again, then back to the golden sphere. 36.
 
-The flashing now getting brighter. 2.
+"One more time" he whispered to himself. He slowly closed his eyes and let out a deep breath. The warm air dissipating into the cold night.
 
-The sound now deafening. 1.
+He placed his thumb firmly on the ring at the top of the orb. 25.
 
-And with a loud crack it all stopped. The man was just left there standing.
+The looming concrete walls of the carpark stood tall around him. During the day the city was busy and hard to escape the other inhabitants. But right now this man was entirely alone. Not a soul in his proximity. Eeerily quiet. 23.
 
-He checked his wrist again. The numbers still counting down. 60.
+But someone was on his mind. A time ago he had to leave his son behind. At this point he wasn't even sure how long it had been. 
+
+"Was it weeks? Maybe months?" he asked himself. It certainly felt like an eternity. 19.
+
+He recalled his own first year at university. He hoped that Oliver had made some friends. He hoped that he wouldn't struggle with the workload. He hoped that he would have someone to lean on when he needed it. He hoped that this person would stand by his side and support his son when he couldn't.
+
+He hoped, because, now, that was all he could do. He hoped that his son wouldn't get caught in the same trap that his father did. A trap that had stripped him of almost all that he held dear. The only solace was knowing that every second he spent here was another that people like Oliver would have to spend with the ones they loved. 17.
+
+He took another glance at the watch. It was as utilitarian as watches are made. Heavy plastic. Digital. With a large screen. Scratches and scuffs made their way into the bezel, but physical damage did not impact the legibility of the digits. 15.
+
+He depressed the top of the orb with a satisfying click. 14.
+
+Silence followed. Total silence. 13.
+
+Nothing happened. If the lights flickered, it was a coincidence. 12.
+
+Then a low hum started, slowly growing into a deep rumble. The orb shimmered in the mans hand. Over time growing in brightness, soon it became like lightning, the ashphalt lighting up around him. 6.
+
+His coat moved in the breeze that wasn't there a second ago. One more second later and gusts around him were pulling at his body, his sleeves trembling in the gale. 3.
+
+The bright orb now illuminated the whole carpark, casting harsh shadows onto the rough grey walls. 2.
+
+The sound now deafening. The rumbling now growing in pitch. 1.
+
+And with a loud crack it all stopped. The man was left there standing still in an empty parking garage. The orb in his hand no longer glowed, but shimmered slightly in his hand. He knelt. Unzipped the bag. And gently placed the orb inside.
+
+He stood still, checking his wrist again. The numbers still counting down. 60 seconds.
