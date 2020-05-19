@@ -1,7 +1,7 @@
 ---
 layout: postLayout.njk
 author: Jono Shields
-words: 718
+words: 723
 date: 2020-05-17
 tags: story
 title: The Corners of a Sphere
